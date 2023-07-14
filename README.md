@@ -4,7 +4,7 @@
 
 ###1. Data Cleaning :
 In this stage we dropped null values and also duplicate names from the Dataset
-<br>
+<br/>
 ###2. Data Munging:
 In this stage we transformed the data 
 
