@@ -6,14 +6,14 @@
 In this stage we dropped null values and also duplicate names from the Dataset
 \
 \
-\
+
 
 
 ###2. Data Munging:
 In this stage we transformed the data 
 \
 \
-\
+
 
 
 ###Output:
